@@ -36,6 +36,7 @@
       "react/jsx-props-no-spreading": "off",
       "react/prop-types": "off",
       "@typescript-eslint/ban-types": "off",
+      "no-unused-expressions": "off",
       "import/extensions": [
         "error",
         "ignorePackages",
